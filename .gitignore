@@ -1,0 +1,18 @@
+# Ignore Python virtual environments
+base/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / build files
+build/
+dist/
+*.egg-info/
+
+# OS/editor files (useful on Linux/Arch)
+*.swp   # Vim swap files
+.vscode/
+.idea/
+
